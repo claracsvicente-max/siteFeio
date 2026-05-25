@@ -9,7 +9,7 @@ PAPEL
 TESOURA`)
 let j = ler()
 
-let m = random.int(1, 4)
+let m = random.int(1, 3)
 
 let x = jogo(j, m)
 
